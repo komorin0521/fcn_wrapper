@@ -1,4 +1,4 @@
-certifi==2018.10.15
+certifi==2022.12.7
 chainer==5.0.0
 chainercv==0.10.0
 chardet==3.0.4
